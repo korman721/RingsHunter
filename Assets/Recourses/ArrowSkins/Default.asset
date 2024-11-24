@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9933e8553bd86f041ac291603e931fe6, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 5983502658538200684, guid: f2faf4b97ca4a8140b62ce9305749a07, type: 3}
+  <StaticModel>k__BackingField: {fileID: 1731510785444586776, guid: 64dcc9ba0dbfb1f4ba598e6a43cc3508, type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: 968114229f6949a40b728a77cf812ace, type: 3}
+  <Price>k__BackingField: 48
+  <SkinType>k__BackingField: 1
